@@ -1,0 +1,21 @@
+Respondent ID,Assigned Persona,Profile 1 Score (Authentic/Cheap),Profile 2 Score (Convenience/Flat Fee),Profile 3 Score (Balanced Hybrid)
+User 01,Budget Explorer,9,2,6
+User 02,Budget Explorer,10,3,5
+User 03,Budget Explorer,8,4,7
+User 04,Budget Explorer,9,2,5
+User 05,Budget Explorer,10,3,6
+User 06,Budget Explorer,8,3,5
+User 07,Budget Explorer,9,2,6
+User 08,Time-Pressed Pro,2,9,4
+User 09,Time-Pressed Pro,3,10,3
+User 10,Time-Pressed Pro,1,8,5
+User 11,Time-Pressed Pro,2,9,4
+User 12,Time-Pressed Pro,3,9,5
+User 13,Time-Pressed Pro,2,10,3
+User 14,Time-Pressed Pro,1,9,4
+User 15,Disenchanted Foodie,8,4,9
+User 16,Disenchanted Foodie,7,3,10
+User 17,Disenchanted Foodie,9,5,8
+User 18,Disenchanted Foodie,8,4,9
+User 19,Disenchanted Foodie,7,3,9
+User 20,Disenchanted Foodie,9,4,10
